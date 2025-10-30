@@ -20,9 +20,9 @@ I'm a **Machine Learning & Software Engineer** finishing my **M.S. in AI Systems
 ---
 
 ### 🔒 Current Work
-- Designing a **full-stack privacy policy tracker for major AI platforms** at *Cocoon AI* that performs daily polling, generates summaries, and highlights key usage risks
+- Designing a **full-stack privacy policy tracker** for major AI platforms at *Cocoon AI* that performs daily polling, generates policy summaries, and highlights key usage risks
 - Collaboratively creating an **AI-assisted software security system** for *Raytheon* using **Cyber Reasoning Systems (CRS)** to analyze C++ code and automatically generate fixes for vulnerabilities
-- Tuning and implementing a **YOLO-based computer vision pipeline** for *Springs Window Fashions* for scalable part detection across factory floor environments
+- Tuning and implementing a **YOLO-based computer vision pipeline** at *Springs Window Fashions* for scalable part detection across factory floor environments
 
 ---
 
