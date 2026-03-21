@@ -1,27 +1,29 @@
 # 👋 Hi, I'm Joshua Lamb
 
-I'm a **Machine Learning & Software Engineer** finishing my **M.S. in AI Systems at the University of Florida**. I build **AI-powered systems** that blend intelligent models with reliable, scalable software.
+I'm a **Software Engineer focused on applied AI systems**, currently finishing my **M.S. in Artificial Intelligence Systems at the University of Florida**.
+
+I build **end-to-end systems that integrate AI into real-world applications**, with an emphasis on reliability, performance, and practical deployment.
 
 ---
 
-### 💡 What I Do
-- 🤖 **Applied Machine Learning** — LLMs, RAG, NLP, Computer Vision, Speech Processing  
-- ⚙️ **Software Engineering** — API design, backend development, data pipelines, CI/CD  
-- ☁️ **Systems & Deployment** — Docker, Azure, AWS, and real-time inference
+### 💡 What I Work On
+- 🤖 **Applied AI** — LLMs, RAG systems, NLP, computer vision, speech pipelines  
+- ⚙️ **Backend & Systems** — APIs, data pipelines, real-time processing  
+- ☁️ **Deployment** — Docker, AWS, Azure, production ML systems
 
 ---
 
 ### 🧰 Core Skills
-`Python` · `C++` · `Java` · `SQL`  
+`Python` · `TypeScript` · `C++` · `Java` · `SQL`  
 `PyTorch` · `TensorFlow` · `LangChain` · `OpenAI API`  
-`Flask` · `FastAPI` · `Docker` · `Azure` · `AWS`  
-`RAG` · `YOLO` · `WebSockets` · `CI/CD`
+`FastAPI` · `Flask` · `Docker` · `AWS` · `Azure`   
+`RAG` · `YOLO` · `WebSockets` · `PostgreSQL`
 
 ---
 
 ### 🔒 Current Work
-- Designing a **full-stack privacy policy tracker** for major AI platforms at *Cocoon AI* that performs daily polling, generates policy summaries, and highlights key usage risks
-- Collaboratively creating an **AI-assisted software security system** for *Raytheon* using **Cyber Reasoning Systems (CRS)** to analyze C++ code and automatically generate fixes for vulnerabilities
+- Building a **policy monitoring system** that scrapes and analyzes privacy policies across major AI platforms, using structured LLM outputs to classify risk and generate actionable insights
+- Developing an **AI-assisted security system** using Cyber Reasoning Systems (CRSs) to detect and patch vulnerabilities in C++ code
 
 ---
 
