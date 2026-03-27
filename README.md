@@ -2,7 +2,7 @@
 
 I'm a **Software Engineer focused on applied AI systems**, currently finishing my **M.S. in Artificial Intelligence Systems at the University of Florida**.
 
-I build **end-to-end systems that integrate AI into real-world applications**, with an emphasis on reliability, performance, and practical deployment.
+I build **relible, data-driven software that brings AI into practical, real-world applications**.
 
 ---
 
