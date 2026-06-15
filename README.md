@@ -22,7 +22,7 @@ I build **relible, data-driven software that brings AI into practical, real-worl
 ---
 
 ### 🔒 Current Work
-- **Software Engineer at Palantir**
+- **Software Engineer** at **Palantir**
 
 ---
 
