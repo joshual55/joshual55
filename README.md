@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Joshua Lamb
 
-I'm a **Software Engineer focused on applied AI systems**, currently finishing my **M.S. in Artificial Intelligence Systems at the University of Florida**.
+I'm a **Software Engineer focused on applied AI systems**, having recently finished my **M.S. in Artificial Intelligence Systems at the University of Florida**.
 
 I build **relible, data-driven software that brings AI into practical, real-world applications**.
 
@@ -22,8 +22,7 @@ I build **relible, data-driven software that brings AI into practical, real-worl
 ---
 
 ### 🔒 Current Work
-- Building a **policy monitoring system** that scrapes and analyzes privacy policies across major AI platforms, using structured LLM outputs to classify risk and generate actionable insights
-- Developing an **AI-assisted security system** using Cyber Reasoning Systems (CRSs) to detect and patch vulnerabilities in C++ code
+- **Software Engineer at Palantir**
 
 ---
 
